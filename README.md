@@ -5,6 +5,8 @@ TaskFlow is an Obsidian plugin that allows you to easily sort your markdown task
 1. Select the tasks list you want to sort in your note.
 2. Open the command palette (Ctrl/Cmd + P) and search for "Sort Selected Tasks"
 
+![](https://i.imgur.com/pW78h2g.gif)
+
 ## Customisation
 
 You can customise the hotkey for the command:
