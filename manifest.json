@@ -3,7 +3,7 @@
 	"name": "TaskFlow",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "TaskFlow is an Obsidian plugin that allows you to easily sort your markdown tasks within a selected area.",
+	"description": "Easily sort your markdown tasks within a selected area.",
 	"author": "br4in",
 	"authorUrl": "",
 	"isDesktopOnly": true
